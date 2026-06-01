@@ -1,139 +1,170 @@
-<h1 align="center">Hi 👋, I'm Affan Saleem</h1>
-<h3 align="center">A passionate developer from Pakistan 🇵🇰</h3>
+<!-- ============================================================
+     AFFAN SALEEM — GitHub Profile README
+     ============================================================ -->
 
+<!-- HERO BANNER -->
 <div align="center">
- <h2>🎓 Software Engineer</h1>
-<h2>👨🏻‍💻 Application Development Enthusiast</h2>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0d2137,100:1a4a6b&height=280&section=header&text=Affan%20Saleem&fontSize=72&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20React%20%E2%80%A2%20.NET%20Core&descSize=20&descAlignY=62&descFontColor=8b9db5&animation=twinkling" width="100%" />
 </div>
 
+<!-- TYPING HEADLINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+people+love+to+use.;Flutter+%E2%80%A2+React+%E2%80%A2+.NET+Core+%E2%80%A2+APIs;Cross-platform+mobile+%26+full-stack+web;Open+to+collabs+%E2%80%94+reach+out+anytime+%F0%9F%91%8B" />
+</p>
 
-# 🚀 **Technologies** 💻  
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/affan-saleem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Affansaleem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/MuhammadAffanSaleem" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Affansaleem&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+</p>
 
-| **Front-end Stack** 🎨                           | **Back-end Stack** ⚙️                                   |
-|--------------------------------------------------|--------------------------------------------------------|
-| 🟢 **Flutter**                                   | **Nest JS**                                            |
-| ⚛️ **React JS**                                  | **ASP.Net Core**                                       |
-| 🌐 **Flask**                                     | **Laravel**                                            |
-| 🖼️ **HTML, CSS, JS**                             | **SQL**                                                |
-| 🎨 **Tailwind CSS**, **Sass**, **Material UI**    | **MySQL**, **MongoDB**, **PostgreSQL**                 |
-| 📱 **Android**, **iOS**, **Desktop Application** | **Firebase**, **Supabase**, **SignalR Service**         |
-| 🧪 **Testing:** Jest, Postman, Insomnia          | **API Integrations**, **API Testing**, **SMTP**        |
-| 🥅 **Bootstrap**                                 | **Authentication**, **SMTP**, **SignalR Service**       |
-
-
-
-
-🌱 **Learning**: Flutter  
-🛑 **Ask Me About**: Flutter, React, SQL Database Problems
-
-
-## 📫 **Connect with Me**  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Affansaleem)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-saleem/)
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MuhammadAffanSaleem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_affansaleem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-saleem) 
-<img align="right" width="300px" height="300px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<br>
-<br>
-<br>
-
-## 🛠️ **Cream Projects**
-
-
-### **Flutter Projects** 📱
-1. **Pioneer Attendance Application**  
-   Employee Attendance Management  
-   🚀 _Technologies_: **Flutter**
-
-2. **Geo-fencing & Google Maps API**  
-   Reverse-Geo coding integration  
-   🚀 _Technologies_: **Flutter**
-
-3. **Brainiacs - Educational Social Media Application**  
-   🚀 _Technologies_: **Flutter**
-
-4. **Local Authentication Application**  
-   🚀 _Technologies_: **Flutter**
-
-5. **Ad Mob Integration**  
-   Mobile Ad integration in Flutter apps  
-   🚀 _Technologies_: **Flutter**
-
-6. **Fitted GYM Application**  
-   GYM Tracking application  
-   🚀 _Technologies_: **Flutter**
-
-7. **Firebase Notification Service**  
-   Push notifications via Firebase  
-   🚀 _Technologies_: **Flutter**
-
-8. **Personal Finance Management** _(In-Progress)_  
-   🚀 _Technologies_: **Flutter**
-
----
-
-### **React JS Projects** ⚛️
-1. **World-wise Travelling Application**  
-   🚀 _Technologies_: **React JS**
-
-2. **Fast-React Pizza**  
-   🚀 _Technologies_: **React JS**
-
-3. **Todo-List Application**  
-   🚀 _Technologies_: **React JS**
-
-4. **Pop-Nosh**  
-   Movies List Application  
-   🚀 _Technologies_: **React JS**
-
-5. **Link Traders**  
-   Company showcase platform  
-   🚀 _Technologies_: **React JS**
-
-6. **Portfolio**  
-   Personal portfolio website  
-   🚀 _Technologies_: **React JS**
-
----
-
-### **Backend Projects** ⚙️
-1. **Brainiacs - Back-end APIs**  
-   .NET Core Web API for Brainiacs  
-   🚀 _Technologies_: **.NET Core**
-
-2. **Pioneer Mobile Application - Back-end APIS**  
-   🚀 _Technologies_: **.NET Core**
-
-<br>
-
-
-
-
-
-# 📊 GitHub Stats:
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=darcula&preferLogin=false&Border=B3D8DD">    <img  alt="Affansaleem's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Affansaleem?cardType=github&theme=darcula&preferLogin=false&Border=B3D8DD" />  </a>
-  <br/>
-  <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Affansaleem&theme=dark&hide_border=false)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Affansaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Affansaleem&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<!-- ── ABOUT ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## &nbsp;`> whoami`
 
----
-[![](https://visitcount.itsvg.in/api?id=Affansaleem&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+```yaml
+name        : Affan Saleem
+role        : Software Engineer
+location    : Lahore, Pakistan 🇵🇰
+focus       : Flutter · React · .NET Core
+currently   : Going deep on cross-platform mobile
+available   : Open to interesting collaborations
+ask_me      : Flutter, React, SQL problems
+```
 
+<br/>
 
-  
+- 🔭 &nbsp;Shipping a **Personal Finance Manager** app in Flutter
+- 🌱 &nbsp;Levelling up in **Flutter** & mobile architecture patterns
+- ⚡ &nbsp;I think good UX and clean code are the same thing
+- 🤝 &nbsp;Always up for building something meaningful together
+
+<br clear="right"/>
+
+<!-- ── TECH STACK ──────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp;🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Databases
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+<!-- ── PROJECTS ────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp;🚀 &nbsp;Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Flutter</h3>
+      <br/>
+      <p>🗂️ <b>Pioneer Attendance App</b><br/>
+      <sub>Employee attendance system with real-time geo-fencing, Google Maps reverse geocoding, and push notifications.</sub></p>
+      <p>🧠 <b>Brainiacs</b><br/>
+      <sub>Educational social media platform — students share, learn, and connect. Complete mobile experience with .NET Core backend.</sub></p>
+      <p>💪 <b>Fitted GYM</b><br/>
+      <sub>Gym and workout tracking app for logging sessions, sets, and progress over time.</sub></p>
+      <p>💰 <b>Personal Finance Manager</b> <i>(in progress)</i><br/>
+      <sub>Smart budgeting and expense tracking with visual breakdowns.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ React &nbsp;·&nbsp; ⚙️ Backend</h3>
+      <br/>
+      <p>🌍 <b>World-wise</b><br/>
+      <sub>Travel companion app with interactive maps — track countries visited and plan ahead.</sub></p>
+      <p>🎬 <b>Pop-Nosh</b><br/>
+      <sub>Movie discovery and personal watchlist app with search and ratings.</sub></p>
+      <p>🏢 <b>Link Traders</b><br/>
+      <sub>Professional company showcase platform built in React.</sub></p>
+      <p>🔗 <b>Brainiacs API &nbsp;·&nbsp; Pioneer API</b><br/>
+      <sub>Production-grade REST APIs powering both mobile platforms, built with .NET Core Web API.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<!-- ── GITHUB STATS ───────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp;📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Affansaleem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affansaleem&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Affansaleem&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Affansaleem&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+</div>
+
+<!-- ── FOOTER ─────────────────────────────────────────────────── -->
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>⚡ If you've read this far, we should probably build something together.</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/affan-saleem/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a6b,50:0d2137,100:000000&height=120&section=footer&fontSize=14&fontColor=58A6FF" width="100%"/>
+</div>
